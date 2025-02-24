@@ -9,6 +9,7 @@ const CLASS_ORDER = [
     'animate', 'transition', 'translate', 'duration', 'opacity', 'scale', 'rotate', 'skew',
     'm', 'mx', 'my', 'ml', 'mr', 'mt', 'mb',
     'rounded', 'outline', 'ring', 'border',
+    'list',
     'flex', 'grid', 'inline', 'visible',
     'justify', 'items',
     'gap', 'space',
